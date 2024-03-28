@@ -1,5 +1,5 @@
 # tinkoff_review_analyze
-__There all our developments on the projec__t
+_There all our developments on the project_
 
 **Files in our solution:**
 
