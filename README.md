@@ -18,6 +18,6 @@ _There all our developments on the project_
              **3)** generative.py - for some time we will use GIGA chat: summarization and generate advise to upgrade product based on negative reviews 
 
 - bert_classification.ipynb - research for review classificator
-- review_analyze.ipynb - notebook for additional task(2 stage)
+- review_analyze(2stage).ipynb - notebook for additional task(2 stage)
 - review_analyze.pdf - presentation of our research for additional task(2 stage)
             
